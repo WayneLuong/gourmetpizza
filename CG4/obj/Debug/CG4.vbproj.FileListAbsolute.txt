@@ -1,0 +1,3 @@
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.exe
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.xml
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.pdb

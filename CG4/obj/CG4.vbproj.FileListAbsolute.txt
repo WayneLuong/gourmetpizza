@@ -1,0 +1,143 @@
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\bin\Debug\CG4.exe
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\bin\Debug\CG4.pdb
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\bin\Debug\CG4.xml
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Admin.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\CG4.vbproj.GenerateResource.Cache
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\CG4.exe
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\CG4.xml
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\CG4.pdb
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Viewall.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.AdminLogin.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Adminpass.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Orderscreen.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4\CG4\obj\Debug\WindowsApplication1.Welcome.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\CG4.exe
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\CG4.xml
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\CG4.pdb
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\bin\Debug\CG4.exe
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\bin\Debug\CG4.pdb
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\bin\Debug\CG4.xml
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Admin.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.AdminLogin.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Adminpass.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Welcome.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Orderscreen.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Viewall.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\CG4.vbproj.GenerateResource.Cache
+G:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.exe
+G:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.xml
+G:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.pdb
+E:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.exe
+E:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.xml
+E:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.pdb
+E:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.exe
+E:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.pdb
+E:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.xml
+E:\Computing\A2\CG4 2\CG4\obj\Debug\ResolveAssemblyReference.cache
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Admin.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.AdminLogin.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Adminpass.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Welcome.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Login.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Orderscreen.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Register.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Viewall.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Resources.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.vbproj.GenerateResource.Cache
+G:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.exe
+G:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.pdb
+G:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.xml
+G:\Computing\A2\CG4 2\CG4\obj\Debug\ResolveAssemblyReference.cache
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Admin.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.AdminLogin.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Adminpass.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Welcome.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Login.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Orderscreen.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Register.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Viewall.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Resources.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.vbproj.GenerateResource.Cache
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Summary.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Summary.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Summary.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.forgetpass.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.forgetpass.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\bin\Release\CG4.exe
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\bin\Release\CG4.pdb
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\bin\Release\CG4.xml
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Admin.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.AdminLogin.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Adminpass.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.forgetpass.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Summary.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Welcome.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Login.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Orderscreen.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Register.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Viewall.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\WindowsApplication1.SplashScreen1.resources
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\CG4.vbproj.GenerateResource.Cache
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\CG4.exe
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\CG4.xml
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Release\CG4.pdb
+C:\Users\Wayne\Desktop\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Help.resources
+E:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Help.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.exe
+F:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.xml
+F:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.pdb
+F:\Computing\A2\CG4 2\CG4\obj\Debug\ResolveAssemblyReference.cache
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Admin.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.AdminLogin.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Adminpass.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.forgetpass.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Help.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Summary.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Welcome.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Login.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Orderscreen.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Register.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Viewall.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Resources.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+F:\Computing\A2\CG4 2\CG4\obj\Debug\CG4.vbproj.GenerateResource.Cache
+F:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.exe
+F:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.pdb
+F:\Computing\A2\CG4 2\CG4\bin\Debug\CG4.xml
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.forgetpass.resources
+G:\Computing\A2\CG4 2\CG4\obj\Debug\WindowsApplication1.Help.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.exe
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.xml
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.pdb
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\bin\Debug\CG4.exe
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\bin\Debug\CG4.pdb
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\bin\Debug\CG4.xml
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Admin.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.AdminLogin.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Adminpass.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.forgetpass.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Help.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Summary.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Welcome.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Orderscreen.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Viewall.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\Wayne\Desktop\College\A2\Computing\CG4 2\CG4\obj\Debug\CG4.vbproj.GenerateResource.Cache
